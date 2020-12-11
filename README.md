@@ -1,1 +1,2 @@
 # Steinstadt-Auftragsbot
+send help
