@@ -1,0 +1,17 @@
+[
+    {
+        "title": "${aufträge11[auftragsindex11].nummer}",
+        "text": ["${aufträge11[auftragsindex11].fracht} \n",
+                "${aufträge11[auftragsindex11].gewicht} \n",
+                "${aufträge11[auftragsindex11].von}\n",
+                "${aufträge11[auftragsindex11].nach} \n",
+                "${aufträge11[auftragsindex11].transport} \n",
+                "${aufträge11[auftragsindex11].maxSpd} \n",
+                "${aufträge11[auftragsindex11].polizei} \n",
+                "${aufträge11[auftragsindex11].money} \n"]
+    },
+    {
+        "title": "${aufträge12[rndmauftragsnummer15].nummer}"
+
+    }
+]
