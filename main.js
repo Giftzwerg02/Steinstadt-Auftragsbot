@@ -38,8 +38,8 @@ client.on("message", async message => {
     try {
         if(command == "auftrag") {
             if(args[0] == '11') {
-                var argumentz = 0
-                client.commands.get('auftrag11').execute(message, argumentz);
+                var arguments = 0
+                client.commands.get('auftrag11').execute(message, arguments);
             }
 
             else if(args[0] == '12') {
