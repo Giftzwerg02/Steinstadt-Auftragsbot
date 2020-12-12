@@ -9,7 +9,13 @@
   "author": "Kevin Konradi",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^14.14.12",
     "discord.js": "^12.4.1",
-    "unb-api": "^1.2.0"
+    "fs": "0.0.1-security",
+    "unb-api": "^1.2.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
   }
 }
